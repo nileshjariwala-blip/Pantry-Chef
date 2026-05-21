@@ -1,0 +1,6 @@
+{
+  "name": "Pantry Chef",
+  "description": "Scan fridge/pantry inventory, manage kitchen ingredients, log culinary cooked dishes, get healthy recipes, and auto-generate grocery lists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
